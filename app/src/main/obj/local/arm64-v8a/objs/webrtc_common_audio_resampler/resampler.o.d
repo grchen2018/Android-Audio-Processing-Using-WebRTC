@@ -1,14 +1,29 @@
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/obj/local/arm64-v8a/objs/webrtc_common_audio_resampler/resampler.o: \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni/webrtc/common_audio/resampler/resampler.cc \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/resampler/include/resampler.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/signal_processing_library.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/spl_inl.h
+D:/AndroidStudioProjects/Android-Audio-Processing-Using-WebRTC/app/src/main/obj/local/arm64-v8a/objs/webrtc_common_audio_resampler/resampler.o: \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\resampler\resampler.cc \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\resampler\include\resampler.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\signal_processing_library.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\spl_inl.h
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/resampler/include/resampler.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/signal_processing_library.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/spl_inl.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\resampler\include\resampler.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\signal_processing_library.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\spl_inl.h:

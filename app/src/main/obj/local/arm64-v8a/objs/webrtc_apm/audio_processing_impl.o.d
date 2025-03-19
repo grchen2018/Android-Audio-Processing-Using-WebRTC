@@ -1,266 +1,458 @@
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/obj/local/arm64-v8a/objs/webrtc_apm/audio_processing_impl.o: \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni/webrtc/modules/audio_processing/audio_processing_impl.cc \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/audio_processing_impl.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\memory \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/criticalsection.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/atomicops.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/constructormagic.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/thread_annotations.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/platform_thread_types.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/audio_buffer.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/channel_buffer.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/checks.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/gtest_prod_util.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/scoped_ptr.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/deprecation.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/template_util.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/include/audio_util.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstring \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/include/audio_processing.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/arraysize.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/platform_file.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\map \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/basictypes.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/array_util.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cmath \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/optional.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/splitting_filter.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/three_band_filter_bank.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/sparse_fir_filter.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/scoped_vector.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/stl_util.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iterator \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/include/module_common_types.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_types.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_video/rotation.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/file_wrapper.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/trace_event.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/event_tracer.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/audio_converter.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/signal_processing_library.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/spl_inl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/aec/aec_core.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/agc/agc_manager_direct.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/agc/agc.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/voice_activity_detector.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/resampler/include/resampler.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/vad_audio_proc.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/common.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/pitch_based_vad.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/gmm.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/standalone_vad.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/vad/include/webrtc_vad.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/nonlinear_beamformer.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/lapped_transform.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\complex \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/blocker.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/audio_ring_buffer.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/aligned_malloc.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/aligned_array.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/beamformer.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/complex_matrix.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/matrix.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/common.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/echo_cancellation_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/swap_queue.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/processing_component.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/echo_control_mobile_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/gain_control_for_experimental_agc.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/thread_checker.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/thread_checker_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/gain_control_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/high_pass_filter_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/intelligibility/intelligibility_enhancer.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/intelligibility/intelligibility_utils.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/level_estimator_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/noise_suppression_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/transient/transient_suppressor.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\deque \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\set \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/voice_detection_impl.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/logging.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/metrics.h
+D:/AndroidStudioProjects/Android-Audio-Processing-Using-WebRTC/app/src/main/obj/local/arm64-v8a/objs/webrtc_apm/audio_processing_impl.o: \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\audio_processing_impl.cc \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\audio_processing_impl.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\list \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\new \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\chrono \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctime \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ratio \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\climits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\vector \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\criticalsection.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\atomicops.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\constructormagic.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\thread_annotations.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\platform_thread_types.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\audio_buffer.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\channel_buffer.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\checks.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\sstream \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ostream \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ios \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__locale \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\mutex \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\system_error \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__errc \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bitset \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\istream \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\gtest_prod_util.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\scoped_ptr.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\deprecation.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\template_util.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\include\audio_util.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\include\audio_processing.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\arraysize.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\platform_file.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\map \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tree \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__node_handle \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\optional \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\basictypes.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\array_util.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cmath \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\optional.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\splitting_filter.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\three_band_filter_bank.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\sparse_fir_filter.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\scoped_vector.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\stl_util.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\include\module_common_types.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_types.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_video\rotation.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\file_wrapper.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\trace_event.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\event_tracer.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\audio_converter.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\signal_processing_library.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\spl_inl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\aec\aec_core.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\agc\agc_manager_direct.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\agc\agc.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\voice_activity_detector.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\resampler\include\resampler.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\vad_audio_proc.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\common.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\pitch_based_vad.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\gmm.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\standalone_vad.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\vad\include\webrtc_vad.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\nonlinear_beamformer.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\lapped_transform.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\complex \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\blocker.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\audio_ring_buffer.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\aligned_malloc.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\aligned_array.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\beamformer.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\complex_matrix.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\matrix.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\common.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\echo_cancellation_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\swap_queue.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\processing_component.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\echo_control_mobile_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\gain_control_for_experimental_agc.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\thread_checker.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\thread_checker_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\gain_control_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\high_pass_filter_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\intelligibility\intelligibility_enhancer.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\intelligibility\intelligibility_utils.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\level_estimator_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\noise_suppression_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\transient\transient_suppressor.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\deque \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\set \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\voice_detection_impl.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\logging.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\metrics.h
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/audio_processing_impl.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\audio_processing_impl.h:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\list:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\list:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\memory:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\vector:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/criticalsection.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/atomicops.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/constructormagic.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/thread_annotations.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/platform_thread_types.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/audio_buffer.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/channel_buffer.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/checks.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\sstream:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\new:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/gtest_prod_util.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/scoped_ptr.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/deprecation.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/template_util.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/include/audio_util.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstring:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/include/audio_processing.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/arraysize.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/platform_file.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\map:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/basictypes.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/array_util.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cmath:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\chrono:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/optional.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctime:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/splitting_filter.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ratio:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/three_band_filter_bank.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\climits:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/sparse_fir_filter.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/scoped_vector.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/stl_util.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\iterator:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/include/module_common_types.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_types.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_video/rotation.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/file_wrapper.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/trace_event.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/event_tracer.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/audio_converter.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/signal_processing_library.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/spl_inl.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/aec/aec_core.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/agc/agc_manager_direct.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/agc/agc.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\vector:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/voice_activity_detector.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/resampler/include/resampler.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/vad_audio_proc.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\criticalsection.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/common.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\atomicops.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/pitch_based_vad.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\constructormagic.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/gmm.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\thread_annotations.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/standalone_vad.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\platform_thread_types.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/vad/include/webrtc_vad.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\audio_buffer.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/nonlinear_beamformer.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\channel_buffer.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/lapped_transform.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\checks.h:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\complex:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\sstream:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/blocker.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ostream:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/audio_ring_buffer.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ios:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__locale:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/aligned_malloc.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\mutex:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/aligned_array.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/beamformer.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\system_error:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/complex_matrix.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__errc:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/beamformer/matrix.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/common.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/echo_cancellation_impl.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/swap_queue.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/processing_component.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/echo_control_mobile_impl.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/gain_control_for_experimental_agc.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/thread_checker.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bitset:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/thread_checker_impl.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\istream:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/gain_control_impl.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/high_pass_filter_impl.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\gtest_prod_util.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/intelligibility/intelligibility_enhancer.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\scoped_ptr.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/intelligibility/intelligibility_utils.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/level_estimator_impl.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\deprecation.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/noise_suppression_impl.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\template_util.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/transient/transient_suppressor.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\include\audio_util.h:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\deque:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\include\audio_processing.h:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\set:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/voice_detection_impl.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\arraysize.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/logging.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\platform_file.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/metrics.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\map:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tree:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__node_handle:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\optional:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\basictypes.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\array_util.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cmath:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\optional.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\splitting_filter.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\three_band_filter_bank.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\sparse_fir_filter.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\scoped_vector.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\stl_util.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\include\module_common_types.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_types.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_video\rotation.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\file_wrapper.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\trace_event.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\event_tracer.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\audio_converter.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\signal_processing_library.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\spl_inl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\aec\aec_core.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\agc\agc_manager_direct.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\agc\agc.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\voice_activity_detector.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\resampler\include\resampler.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\vad_audio_proc.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\common.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\pitch_based_vad.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\gmm.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\standalone_vad.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\vad\include\webrtc_vad.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\nonlinear_beamformer.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\lapped_transform.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\complex:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\blocker.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\audio_ring_buffer.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\aligned_malloc.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\aligned_array.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\beamformer.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\complex_matrix.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\beamformer\matrix.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\common.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\echo_cancellation_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\swap_queue.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\processing_component.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\echo_control_mobile_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\gain_control_for_experimental_agc.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\thread_checker.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\thread_checker_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\gain_control_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\high_pass_filter_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\intelligibility\intelligibility_enhancer.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\intelligibility\intelligibility_utils.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\level_estimator_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\noise_suppression_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\transient\transient_suppressor.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\deque:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\set:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\voice_detection_impl.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\logging.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\metrics.h:

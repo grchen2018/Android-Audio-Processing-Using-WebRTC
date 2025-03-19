@@ -1,47 +1,239 @@
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/obj/local/arm64-v8a/objs/webrtc_common_audio/real_fourier.o: \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni/webrtc/common_audio/real_fourier.cc \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\complex \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/scoped_ptr.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\memory \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/constructormagic.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/deprecation.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/template_util.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/aligned_malloc.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/checks.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier_ooura.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier_openmax.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/spl_inl.h
+D:/AndroidStudioProjects/Android-Audio-Processing-Using-WebRTC/app/src/main/obj/local/arm64-v8a/objs/webrtc_common_audio/real_fourier.o: \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier.cc \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\complex \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cmath \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\sstream \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ostream \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ios \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__locale \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\new \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\chrono \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctime \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ratio \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\climits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\mutex \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\system_error \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__errc \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bitset \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\istream \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\scoped_ptr.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\constructormagic.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\deprecation.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\template_util.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\aligned_malloc.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\checks.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier_ooura.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier_openmax.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\spl_inl.h
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier.h:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\complex:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\complex:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/scoped_ptr.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\memory:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/constructormagic.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/deprecation.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/template_util.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/system_wrappers/include/aligned_malloc.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/checks.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier_ooura.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cmath:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/real_fourier_openmax.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/signal_processing/include/spl_inl.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\sstream:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ostream:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ios:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__locale:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\new:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\chrono:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctime:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ratio:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\climits:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\mutex:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__mutex_base:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\system_error:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__errc:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cerrno:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\support\android\locale_bionic.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\streambuf:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\locale:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdarg:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bsd_locale_fallbacks.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bitset:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\istream:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\scoped_ptr.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\constructormagic.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\deprecation.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\template_util.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\system_wrappers\include\aligned_malloc.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\checks.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier_ooura.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\real_fourier_openmax.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\signal_processing\include\spl_inl.h:

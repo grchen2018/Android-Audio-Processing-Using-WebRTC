@@ -1,11 +1,23 @@
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/obj/local/armeabi-v7a/objs/webrtc_apm/rms_level.o: \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni/webrtc/modules/audio_processing/rms_level.cc \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/rms_level.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h
+D:/AndroidStudioProjects/Android-Audio-Processing-Using-WebRTC/app/src/main/obj/local/armeabi-v7a/objs/webrtc_apm/rms_level.o: \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\rms_level.cc \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\rms_level.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/rms_level.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\rms_level.h:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:

@@ -1,65 +1,209 @@
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/obj/local/arm64-v8a/objs/webrtc_vad/vad_audio_proc.o: \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni/webrtc/modules/audio_processing/vad/vad_audio_proc.cc \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/vad_audio_proc.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\memory \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/common.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/fft4g.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/vad_audio_proc_internal.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/pitch_internal.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/pole_zero_filter.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/codec.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/structs.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/bandwidth_info.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/include/isac.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/settings.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/lpc_analysis.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/pitch_estimator.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/include/module_common_types.h \
-  C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/constructormagic.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_types.h \
-  F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_video/rotation.h
+D:/AndroidStudioProjects/Android-Audio-Processing-Using-WebRTC/app/src/main/obj/local/arm64-v8a/objs/webrtc_vad/vad_audio_proc.o: \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\vad_audio_proc.cc \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\vad_audio_proc.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\memory \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\exception \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\new \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\utility \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstring \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__debug \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iterator \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\tuple \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\atomic \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\chrono \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctime \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ratio \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\climits \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\common.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\fft4g.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\vad_audio_proc_internal.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\pitch_internal.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\pole_zero_filter.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\codec.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\structs.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\bandwidth_info.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\include\isac.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\settings.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\lpc_analysis.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\pitch_estimator.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\include\module_common_types.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\functional \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bit \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\constructormagic.h \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_types.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string_view \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__string \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cctype \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\vector \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference \
+  D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer \
+  D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_video\rotation.h
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/vad_audio_proc.h:
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\vad_audio_proc.h:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\memory:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\memory:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/common.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__config:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/typedefs.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\type_traits:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_audio/fft4g.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstddef:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/vad_audio_proc_internal.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\version:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/pitch_internal.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\typeinfo:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_processing/vad/pole_zero_filter.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\exception:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\cstddef:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdlib:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/codec.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdlib.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/structs.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdint:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/bandwidth_info.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdint.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/include/isac.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\new:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/settings.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\utility:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/lpc_analysis.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__tuple:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/audio_coding/codecs/isac/main/source/pitch_estimator.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\initializer_list:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/modules/include/module_common_types.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstring:
 
-C:/android-ndk-r13b/build//../sources/cxx-stl/gnu-libstdc++/4.9/include\algorithm:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string.h:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/base/constructormagic.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__debug:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_types.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iosfwd:
 
-F:/ApmWorkaround/APM/Android_Audio_Processing/app/src/main/jni\webrtc/common_video/rotation.h:
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wchar.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\iterator:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__functional_base:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\tuple:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdexcept:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\atomic:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__threading_support:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\chrono:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctime:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ratio:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\climits:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\limits.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\errno.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\common.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stddef.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\typedefs.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\math.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\stdio.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_audio\fft4g.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\vad_audio_proc_internal.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\pitch_internal.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_processing\vad\pole_zero_filter.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\codec.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\structs.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\bandwidth_info.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\include\isac.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\settings.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\lpc_analysis.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\audio_coding\codecs\isac\main\source\pitch_estimator.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\modules\include\module_common_types.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\algorithm:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\functional:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\bit:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\base\constructormagic.h:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_types.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\string_view:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__string:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cstdio:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwchar:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cwctype:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\cctype:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\ctype.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\wctype.h:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\vector:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__bit_reference:
+
+D:\Android\Sdk\ndk\23.1.7779620\build\\..\sources\cxx-stl\llvm-libc++\include\__split_buffer:
+
+D:\AndroidStudioProjects\Android-Audio-Processing-Using-WebRTC\app\src\main\jni\webrtc\common_video\rotation.h:
